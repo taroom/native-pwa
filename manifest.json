@@ -1,0 +1,20 @@
+{
+    "name": "My Extension",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#f8fcfa",
+    "theme_color": "#f8fcfa",
+    "icons": [
+      {
+        "src": "icons/icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+    ]
+}
